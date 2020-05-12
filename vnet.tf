@@ -8,7 +8,7 @@ module "network" {
   version = "3.0.1"
 }
 
- tags = {
+tags = {
     Billable = "true"
     Department  = "database"
   }
